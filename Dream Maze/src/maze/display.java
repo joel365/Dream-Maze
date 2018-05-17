@@ -13,7 +13,7 @@ public class display{
 		obj = new JOptionPane();
 		themap = new map();
 		p = new minion(themap);
-		
+		// New commet
 	}
 
 	public void update() {
